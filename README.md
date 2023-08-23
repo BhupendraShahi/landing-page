@@ -1,5 +1,7 @@
 ## Landing page template design made using React and TailwindCSS.
 
+Check it out: https://lambent-lolly-a26324.netlify.app/
+
 # ScreenShots
 
 ![landingPage](https://github.com/BhupendraShahi/landing-page/assets/62903302/51acaf1b-d5f8-40bf-ba77-9ccbf76f47e0)
